@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://thumbs.gfycat.com/FirsthandLateBuck-size_restricted.gif");
+     
+   
+}
+
+img{
+  
+    width: 300px;
+    margin-left: 40%;
+  
+}
+
+#query{
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+  
+    background-color: red;
+}
+
+
+
+#results{
+    height: 400px;
+    width: 300px;
+    border: 1px solid blue;
+    display: block;
+    margin: auto;
+    background-color: burlywood;
+    overflow: scroll;
+    border-top:none;
+   
+}
+
+p{
+    color: black;
+    
+}
